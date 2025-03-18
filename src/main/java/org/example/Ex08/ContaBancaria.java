@@ -1,4 +1,4 @@
-package org.example.EX08;
+package org.example.Ex08;
 
 public class ContaBancaria {
     private double saldo;
